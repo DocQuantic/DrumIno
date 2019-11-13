@@ -4,9 +4,9 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: DrumIno
 
-Describe your project
+Anattempt to build a DIY drum module.
 
 == Step 1: Installation
 Please describe the steps to install this project.
